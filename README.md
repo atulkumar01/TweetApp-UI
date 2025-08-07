@@ -37,7 +37,7 @@ The page will reload on edits. You can also see lint errors in the console.
 
 
 #Project Structure 
-``bash 
+```bash 
 TweetApp-UI/
 ├── public/            # Static files and index.html
 ├── src/               # React source files
