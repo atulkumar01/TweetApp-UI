@@ -47,7 +47,7 @@ TweetApp-UI/
 │   └── App.js         # Main app component
 ├── package.json       # npm dependencies and scripts
 └── README.md          # Project documentation
-``
+```
 Notes
 
 Connects to backend API for authentication and tweet management.
